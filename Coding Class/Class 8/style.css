@@ -1,0 +1,24 @@
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(29, 218, 29);
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
+.rectangle {
+    margin: auto;
+    height: 200px;
+    width: 400px;
+    background-color: red;
+}
+.horizontal {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

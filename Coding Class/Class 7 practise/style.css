@@ -1,0 +1,26 @@
+.def {
+    color: black;
+}
+span {
+    color: rgb(5, 226, 5);
+}
+body {
+    background-color: rgb(0, 102, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+}
+.card {
+    background-color: white;
+    width:  400px;
+    text-align: center;
+    padding: 50px;
+    border-radius: 15px;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+    object-fit: cover;
+}

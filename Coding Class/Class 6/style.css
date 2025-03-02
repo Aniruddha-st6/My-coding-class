@@ -1,0 +1,22 @@
+img {
+    height: 30px;
+}
+button { color: white;
+    background-color: blue;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: blue;
+}
+#abc {
+    color: rgb(2, 109, 2);
+}
+#cde {
+    height: 200px;
+}
+table {
+    border: solid 1px black ;
+    border-collapse: collapse;
+}
+td {
+    border: solid 1px black;
+}

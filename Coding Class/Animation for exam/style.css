@@ -1,0 +1,24 @@
+body {
+    background: url(./images/72476684_9768818.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    position: relative;
+    height: 100vh;
+}
+.rocket {
+    height: 250px;
+    position: absolute;
+    bottom: 50px;
+    left: 500px;
+    animation: rocket 1s linear alternate infinite
+}
+
+@keyframes rocket {
+    from {
+        bottom: 100px;
+    }
+    to {
+        bottom: 200px;
+    }
+}
